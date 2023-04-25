@@ -22,6 +22,6 @@ function selectionSort(array) {
 //Print Original Array
 console.log("UNSORTED ARRAY:")
 console.log(numbers);
-//Execute Bubble Sort Function
+//Execute Selection Sort Function
 console.log("SORTED ARRAY (Selection Sort):")
 console.log(selectionSort(numbers));
